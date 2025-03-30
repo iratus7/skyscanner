@@ -10,6 +10,7 @@ The evaluation follows Nielsen's 10 Usability Heuristics and identifies key issu
 
 📄 [View Full PDF Report](./Skyscanner.pdf)  
 🎨 [View Figma Prototype](https://www.figma.com/design/H1f24GbrIvH2zKf7m9Nz4m/Skyscanner?node-id=0-1&t=v9vykQFlT802yUbx-1)
+
 ![image](https://github.com/user-attachments/assets/91b7e71f-525e-4401-a1b8-483c11838cd7)
 
 ![image](https://github.com/user-attachments/assets/53dff3c4-aee6-4e37-991b-b78442d4f1a8)
